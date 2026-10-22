@@ -1,0 +1,467 @@
+# Price preview
+
+No prices were written. Live prices are compared with the price file.
+A blank cell in the file is not treated as an error.
+
+## hq
+
+- Price-file rows: 1264
+- Match the file: 1183
+- Differ from the file: 51
+- Not matched to one product: 26
+- Sheet cell is not a price: 4
+- Variant not returned: 0
+
+### Differences
+
+- M00015 | De Lorenzo Bond Defence Thermal Shampoo 240ml | ambiguous barcode | sell file 29.95 live 32.95; compare-at file 34.95 live 36.50; cost file 18.83 live 15.70
+- M00037 | De Lorenzo Essential Treatments Equilibrium Masque 1L | ambiguous barcode | sell file 69.95 live 70.95; cost file 43.32 live 42.29
+- M00020 | De Lorenzo ET Absolute Deep Cleanser 1 Litre | ambiguous barcode | sell file 62.95 live 64.95; cost file 36.58 live 34.98
+- M00051 | De Lorenzo Instant Allevi8 960ml Duo (with pumps) | fields differ | sell file 104.95 live 109.95
+- M00053 | De Lorenzo Instant Allevi8 Conditioner 960ml (With Pump) | ambiguous barcode | sell file 54.95 live 59.95; compare-at file 64.95 live 66.00; cost file 34.06 live 32.89
+- M00054 | De Lorenzo Instant Allevi8 Conditioner 960ml (with pump) | ambiguous barcode | sell file 52.95 live 59.95; compare-at file 64.95 live 66.00; cost file 34.06 live 32.89
+- M00055 | De Lorenzo Instant Allevi8 Shampoo 375ml | ambiguous barcode | compare-at file 31.00 live 32.95; cost file 17.00 live 17.08
+- M00061 | De Lorenzo Instant Illumin8 Blonde Shampoo 960ml (with pump) | ambiguous barcode | sell file 56.95 live 59.95; compare-at file 64.95 live 66.00; cost file 34.06 live 33.97
+- M00065 | De Lorenzo Instant Rejuven8 Conditioner 960ml (with pump) | ambiguous barcode | sell file 55.95 live 59.95; compare-at file 64.95 live 66.00; cost file 34.06 live 34.08
+- M00110 | De Lorenzo Tricho Oily Scalp Control Conditioner 200ml | fields differ | sell file 30.95 live 31.95
+- M00122 | DeLorenzo Tricho Oily Scalp Control Cleanser 200ml | fields differ |  | live title De Lorenzo Tricho Oily Scalp Control Cleanser 200ml
+- M00123 | DeLorenzo Tricho Oily Scalp Control Conditioner 200ml | fields differ | sell file 29.95 live 31.95; compare-at file 34.95 live 32.95 | live title De Lorenzo Tricho Oily Scalp Control Conditioner 200ml
+- M00136 | NAK Care Blonde Conditioner 1 Litre | fields differ | sell file 29.95 live 69.95; compare-at file 39.95 live 79.95; cost file 21.95 live 47.97 | live title NAK Signature Blonde Conditioner 1L
+- M00137 | NAK Care Blonde Conditioner 1L | fields differ | sell file 29.95 live 69.95; compare-at file 39.95 live 79.95; cost file 21.95 live 47.97 | live title NAK Signature Blonde Conditioner 1L
+- M00139 | NAK Care Blonde Shampoo 1L | not matched | title not on catalogue
+- M00142 | NAK Care Colour Conditioner 1L | fields differ |  | live title NAK Care Colour Conditioner 1 Litre
+- M00144 | NAK Care Colour Shampoo 1L | fields differ |  | live title NAK Care Colour Shampoo 1 Litre
+- M00168 | NAK Holiday Structure Complex 375ml Trio Pack | not matched | title not on catalogue
+- M00172 | NAK Keratin Smoothing Masque #3 500ml | fields differ | sell file 4.95 live 109.95
+- M00179 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00180 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00181 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00182 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00183 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00184 | NAK Platinum Blonde Anti-Yellow 60 Second Repair Treatment 1L | fields differ |  | live title NAK Signature Platinum Blonde Anti-Yellow Treatment 60 Second Repair 1L
+- M00185 | NAK Platinum Blonde Anti-Yellow Shampoo 1L | not matched | title not on catalogue
+- M00243 | NAK Rose Blonde Shampoo 1L | fields differ | sell file 59.95 live 64.95
+- M00253 | NAK Signature Blonde Plus Shampoo 1L | fields differ | sell file 69.95 live 59.95
+- M00258 | NAK Signature Curl Conditioner 1L | fields differ |  | live title NAK Signature Curl Condition 1L
+- M00259 | NAK Signature Curl Shampoo & Conditioner Duo 1L | not matched | title not on catalogue
+- M00272 | NAK Signature Hydrate Conditioner 1L | fields differ | sell file 64.95 live 117.95; cost file 47.97 live 74.40 | live title NAK Signature Hydrate Shampoo & Conditioner 1L Duo
+- M00277 | NAK Signature Hydrate Shampoo & Conditioner Duo 1L | fields differ | sell file 114.95 live 117.95; compare-at file 139.90 live 69.95; cost file 81.84 live 74.40 | live title NAK Signature Hydrate Shampoo & Conditioner 1L Duo
+- M00282 | NAK Signature K.Revive Express Repair Power Mask 150ml | fields differ |  | live title NAK Signature K.Revive Peptide Leave in  Power Mask 150ml
+- M00289 | NAK Signature Nourish Shampoo & Conditioner 1L Duo | ambiguous barcode | sell file 129.95 live 117.95; cost file 82.04 live 74.58
+- M00291 | NAK Signature Nourish Shampoo & Conditioner Duo 1L | not matched | ambiguous barcode
+- M00307 | NAK Signature Structure Complex Protein Shampoo & Conditioner Duo 1L | not matched | ambiguous barcode
+- M00309 | NAK Signature Structure Complex Protein Shampoo 1L | fields differ | sell file 69.95 live 64.95
+- M00313 | NAK Signature Structure Complex Shampoo and Conditioner 1L Duo | ambiguous barcode | cost file 89.76 live 81.60
+- M00323 | NAK Signature Volume Shampoo & Conditioner Duo 1L | not matched | title not on catalogue
+- M00325 | NAK Signature Volume Shampoo 1L | fields differ | sell file 69.95 live 59.95
+- M00362 | MUVO Totally Naked Shampoo & Conditioner Duo 500ml | not matched | title not on catalogue
+- M00368 | MUVO Ultra Blonde Shampoo & Conditioner Duo 500ml | not matched | title not on catalogue
+- M00376 | MUVO Wild Berry Shampoo 500ml | fields differ |  | live title MUVO Wild Berry Shampoo - 500ml
+- M00390 | CPR Blonde Always Blonde Sulphate Free Shampoo and Blonde Toning Conditioner 900ml Duo Pack | fields differ | sell file 109.95 live 52.95; compare-at file 139.90 live 64.95; cost file 66.19 live blank | live title Vitafive CPR Blonde Solution Trio Pack
+- M00434 | CPR Frizzy Fizz Control Sulphate free Shampoo 900ml | ambiguous barcode | sell file 52.95 live 54.95; cost file 29.24 live 26.58
+- M00437 | CPR Frizzy Phase 1 Smoothing Creme 250ml | ambiguous barcode | sell file 32.95 live 35.95; cost file 18.45 live 16.77
+- M00438 | CPR Frizzy Phase 1 Smoothing Creme 500ml | ambiguous barcode | sell file 49.95 live 59.95; cost file 36.86 live 33.51
+- M00455 | CPR Rescue Scalp Balance Sulphate Free Shampoo 900ml | ambiguous barcode | sell file 52.95 live 54.95; cost file 35.40 live 32.18
+- M00464 | Manic Panic Amplified Rockabilly Blue Hair Color Spray 125ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00481 | Manic Panic Fuschia Shock 118ml High Voltage Classic Cream Formula Hair Color | fields differ | cost file 17.71 live 16.10
+- M00482 | Manic Panic Fuschia Shock 118ml High Voltage Classic Cream Formula Hair Color | fields differ | cost file 15.64 live 16.10
+- M00683 | Redken All Soft Argan Oil 111ml | not matched | title not on catalogue
+- M00685 | Redken All Soft Argan Oil Conditioner 300ml | ambiguous barcode | sell file 44.95 live 42.95; compare-at file 49.95 live 44.95; cost file 23.52 live 17.32
+- M00687 | Redken All Soft Argan Oil Shampoo 300ml | ambiguous barcode | sell file 44.95 live 42.95; compare-at file 49.95 live 44.95; cost file 19.05 live 17.32
+- M00793 | L'Oreal Dia Light Semi Permanent Hair Colour 50ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00794 | L'Oreal Flex Blowdry Pre-styling Blowdry Cream 150ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00798 | L'Oreal INOA Permanent Ammonia Free Hair Colour 60g | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00800 | L'Oreal Liss Unlimited Professional Shampoo 300ml | ambiguous barcode | sell file 34.95 live 46.95; compare-at file 49.95 live blank
+- M00821 | L'Oreal Metal Detox Anti-Deposit Protector Conditioner 500ml | not matched | title not on catalogue
+- M00840 | L'Oreal Professionnel Blondifier Gloss Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio | not matched | title not on catalogue
+- M00844 | L'Oreal Professionnel Pro Longer Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00848 | L'Oreal Professionnel Serie Expert Absolut Repair Shampoo 300ml, Conditioner 200ml & Resurfacing Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00849 | L'Oreal Professionnel Serie Expert Absolut Repair Shampoo 300ml, Conditioner 200ml, Repair Oil 90ml & Resurfacing Mask 250ml Quad Pack | not matched | title not on catalogue
+- M00852 | L'Oreal Professionnel Serie Expert Vitamino Color Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00859 | L'Oreal Silver Professional Shampoo 300ml | ambiguous barcode | sell file 42.95 live 46.95; compare-at file 59.95 live blank; cost file 21.89 live 19.90
+- M00892 | Angel En Provence Green Tea Anti-Dandruff Conditioner 800ml | not matched | title not on catalogue
+- M00893 | Angel En Provence Green Tea Anti-Dandruff Shampoo 800ml | not matched | title not on catalogue
+- M00896 | Angel En Provence Helichrysum Revitalising Conditioner 800ml | not matched | title not on catalogue
+- M00897 | Angel En Provence Helichrysum Revitalising Shampoo 800ml | not matched | title not on catalogue
+- M00934 | Angel En Provence Orange Flower Coloured Hair Gift Pack | not matched | title not on catalogue
+- M01110 | Olaplex Blonde Bonding Take Home Kit (No.3 100ml, No 4P 250ml, No 6 100ml) | fields differ |  | live title Olaplex Blonde Bonding Take Home Kit
+- M01119 | Olaplex No.0 Intensive Bond Building Treatment 155ml | ambiguous barcode | cost file 44.22 live 40.20
+- M01122 | Olaplex No.3 100ml + No.6 100ml + No.8 100ml Bundle | not matched | title not on catalogue
+- M01124 | Olaplex No.3 Hair Pefector 100ml and No.6 Bond Smoother 100ml Bundle | not matched | title not on catalogue
+- M01126 | Olaplex No.3 Hair Perfector 100ml and No.8 Bond Intense Moisture Mask 100ml Bundle | not matched | title not on catalogue
+- M01125 | Olaplex No.3 Hair Perfector Treatment 100ml | ambiguous barcode | cost file 44.22 live 40.20
+- M01140 | Olaplex No.8 Routine Bundle (No.0 Intensive Bond Building Hair Treatment 155ml, No.3 Hair Perfector 100ml, No.4 Bond Maintenance Shampoo 250ml, and No.8 Bond Intense Moisture Mask 100ml) | not matched | title not on catalogue
+- M01142 | Olaplex Professional Salon Kit 525ml  #1 | fields differ |  | live title Olaplex Professional Salon Kit #1
+- M01143 | Olaplex Traveling Stylist Kit 100ml | fields differ |  | live title Olaplex Traveling Stylist Kit
+- M01204 | American Crew Fiber (Fiber 85g, Cleansing Shampoo 250ml) Duo | fields differ |  | live title American Crew Fiber Duo
+- M01310 | Hi Lift Tint Bowl | not matched | empty variant on multi-variant product
+
+## hairandbeautyhub
+
+- Price-file rows: 1264
+- Match the file: 1142
+- Differ from the file: 73
+- Not matched to one product: 45
+- Sheet cell is not a price: 4
+- Variant not returned: 0
+
+### Differences
+
+- M00001 | De Lorenzo Accentu8 Conditioner 750ml | fields differ | sell file 49.95 live 48.95
+- M00002 | De Lorenzo Accentu8 Shampoo 750ml | not matched | not on this site
+- M00003 | De Lorenzo Allevi8 Conditioner 750ml | fields differ | sell file 49.95 live 48.95
+- M00004 | De Lorenzo Allevi8 Shampoo 750ml | fields differ | sell file 49.95 live 48.95
+- M00009 | De Lorenzo Bond Defence 960ml Duo (with pumps) | fields differ | sell file 132.95 live 130.95
+- M00015 | De Lorenzo Bond Defence Thermal Shampoo 240ml | ambiguous barcode | sell file 29.95 live 32.95; compare-at file 34.95 live 36.50; cost file 18.83 live 15.70
+- M00016 | De Lorenzo Bond Defence Thermal Shampoo 960ml (with pump) | fields differ | sell file 71.95 live 69.95
+- M00036 | De Lorenzo Essential Treatments Absolute Deep Cleanser 250ml | fields differ | sell file 34.95 live 32.95
+- M00037 | De Lorenzo Essential Treatments Equilibrium Masque 1L | ambiguous barcode | cost file 43.32 live 42.29
+- M00020 | De Lorenzo ET Absolute Deep Cleanser 1 Litre | ambiguous barcode | cost file 36.58 live 34.98
+- M00021 | De Lorenzo ET Equilibrium 200g | fields differ | sell file 26.95 live 25.95
+- M00022 | De Lorenzo ET Fortify Primer 250ml | fields differ | sell file 34.95 live 32.95
+- M00023 | De Lorenzo ET Infinite Detangler 250ml | fields differ | sell file 24.95 live 23.95
+- M00041 | De Lorenzo Illumin8 Conditioner 750ml | fields differ | sell file 49.95 live 48.95
+- M00042 | De Lorenzo Illumin8 Shampoo 750ml | fields differ | sell file 49.95 live 48.95
+- M00043 | De Lorenzo Instant Accentu8 960ml Duo (with pumps) | fields differ | sell file 104.95 live 109.95
+- M00050 | De Lorenzo Instant Allevi8 960ml Duo (with pumps) | fields differ | sell file 104.95 live 109.95
+- M00053 | De Lorenzo Instant Allevi8 Conditioner 960ml (With Pump) | ambiguous barcode | sell file 55.95 live 59.95; compare-at file 64.95 live 66.00; cost file 34.06 live 32.89
+- M00054 | De Lorenzo Instant Allevi8 Conditioner 960ml (with pump) | ambiguous barcode | sell file 55.95 live 59.95; compare-at file 64.95 live 66.00; cost file 34.06 live 32.89
+- M00055 | De Lorenzo Instant Allevi8 Shampoo 375ml | ambiguous barcode | compare-at file 31.00 live 32.95; cost file 17.00 live 17.08
+- M00058 | De Lorenzo Instant Illumin8 960ml Duo (with pumps) | fields differ | sell file 104.95 live 109.95
+- M00061 | De Lorenzo Instant Illumin8 Blonde Shampoo 960ml (with pump) | ambiguous barcode | sell file 56.95 live 59.95; compare-at file 64.95 live 66.00; cost file 34.06 live 33.97
+- M00063 | De Lorenzo Instant Rejuven8 960ml Duo (with pumps) | fields differ | sell file 104.95 live 109.95
+- M00065 | De Lorenzo Instant Rejuven8 Conditioner 960ml (with pump) | ambiguous barcode | sell file 55.95 live 59.95; compare-at file 64.95 live 66.00; cost file 34.06 live 34.08
+- M00087 | De Lorenzo Prescriptive Solutions Control Intense Conditioner 960ml (with pump) | fields differ | sell file 79.95 live 74.95
+- M00089 | De Lorenzo Prescriptive Solutions Control Revive Conditioner 960ml (with pump) | ambiguous barcode | sell file 79.95 live 74.95
+- M00091 | De Lorenzo Prescriptive Solutions Control Shampoo 960ml (with pump) | fields differ | sell file 79.95 live 74.95
+- M00094 | De Lorenzo Prescriptive Solutions Moisture Balance Intense Conditioner 960ml (with pump) | ambiguous barcode | sell file 79.95 live 74.95
+- M00096 | De Lorenzo Prescriptive Solutions Moisture Balance Revive Conditioner 960ml (with pump) | ambiguous barcode | sell file 79.95 live 74.95
+- M00098 | De Lorenzo Prescriptive Solutions Moisture Balance Shampoo 960ml (with pump) | ambiguous barcode | sell file 79.95 live 74.95
+- M00101 | De Lorenzo Rejuven8 Conditioner 750ml | not matched | not on this site
+- M00103 | De Lorenzo Rejuven8 Shampoo and Conditioner 750ml Duo Pack | fields differ | sell file 80.95 live 79.95
+- M00110 | De Lorenzo Tricho Oily Scalp Control Conditioner 200ml | fields differ | sell file 30.95 live 31.95
+- M00112 | De Lorenzo Tricho Scalp Balance Cleanser 200ml | fields differ | sell file 31.95 live 30.95
+- M00122 | DeLorenzo Tricho Oily Scalp Control Cleanser 200ml | fields differ |  | live title De Lorenzo Tricho Oily Scalp Control Cleanser 200ml
+- M00123 | DeLorenzo Tricho Oily Scalp Control Conditioner 200ml | fields differ | sell file 29.95 live 31.95; cost file 18.03 live 18.09
+- M00136 | NAK Care Blonde Conditioner 1 Litre | fields differ | sell file 29.95 live 69.95; compare-at file 39.95 live 79.95; cost file 21.95 live 47.97 | live title NAK Signature Blonde Conditioner 1L
+- M00137 | NAK Care Blonde Conditioner 1L | fields differ | sell file 31.95 live 69.95; compare-at file 39.95 live 79.95; cost file 21.95 live 47.97 | live title NAK Signature Blonde Conditioner 1L
+- M00139 | NAK Care Blonde Shampoo 1L | title not on catalogue | compare-at file 39.95 live 36.95; cost file 21.95 live 19.95
+- M00152 | NAK Dandruff Control Shampoo 375ml | not matched | not on this site
+- M00154 | NAK Dry Texture Spray  150ml | fields differ |  | live title NAK Signature Dry Texture Spray 150ml
+- M00155 | NAK Hair Creme Plus Permanent Conditioning Activator | not matched | not on this site
+- M00156 | NAK Hair Creme Plus Permanent Conditioning Activator | not matched | not on this site
+- M00168 | NAK Holiday Structure Complex 375ml Trio Pack | title not on catalogue | cost file 35.79 live 32.54
+- M00184 | NAK Platinum Blonde Anti-Yellow 60 Second Repair Treatment 1L | not matched | not on this site
+- M00185 | NAK Platinum Blonde Anti-Yellow Shampoo 1L | not matched | title not on catalogue
+- M00190 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00206 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00218 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00221 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00223 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00224 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00259 | NAK Signature Curl Shampoo & Conditioner Duo 1L | title not on catalogue | cost file 87.34 live 81.40
+- M00261 | NAK Signature Curl Shampoo and Condition 1L Duo | not matched | not on this site
+- M00272 | NAK Signature Hydrate Conditioner 1L | fields differ | cost file 47.97 live 75.30 | live title NAK Signature Hydrate Shampoo & Conditioner Duo 1L
+- M00277 | NAK Signature Hydrate Shampoo & Conditioner Duo 1L | fields differ | sell file 117.95 live 59.95; compare-at file 139.90 live 69.95; cost file 81.84 live 75.30
+- M00289 | NAK Signature Nourish Shampoo & Conditioner 1L Duo | not matched | ambiguous barcode
+- M00291 | NAK Signature Nourish Shampoo & Conditioner Duo 1L | ambiguous barcode | cost file 82.04 live 75.30
+- M00296 | NAK Signature Platinum Blonde Anti-Yellow Treatment 60 Second Repair 1L | not matched | not on this site
+- M00302 | NAK Signature Structure Complex Holiday Quad Pack | not matched | not on this site
+- M00307 | NAK Signature Structure Complex Protein Shampoo & Conditioner Duo 1L | ambiguous barcode | cost file 89.76 live 81.60
+- M00313 | NAK Signature Structure Complex Shampoo and Conditioner 1L Duo | not matched | ambiguous barcode
+- M00323 | NAK Signature Volume Shampoo & Conditioner Duo 1L | title not on catalogue | cost file 87.34 live 75.30
+- M00329 | NAK Signature Volume Shampoo and Conditioner 1L Duo | not matched | not on this site
+- M00333 | NAK Structure Complex No.3 Bond Enhancer 150ml | fields differ |  | live title NAK Signature Structure Complex No.3 Bond Enhancer 150ml
+- M00337 | NAK Structure Complex Protein Shampoo 500ml | not matched | not on this site
+- M00339 | NAK Ultimate Cleanse Vegan Shampoo 375ml | not matched | not on this site
+- M00362 | MUVO Totally Naked Shampoo & Conditioner Duo 500ml | title not on catalogue | cost file 40.29 live 36.63
+- M00378 | Muvo Totally Naked Shampoo and Conditioner 500ml Duo | not matched | not on this site
+- M00368 | MUVO Ultra Blonde Shampoo & Conditioner Duo 500ml | title not on catalogue | cost file 39.15 live 35.59
+- M00372 | MUVO Ultra Blonde Therapy Mask 200ml | not matched | not on this site
+- M00434 | CPR Frizzy Fizz Control Sulphate free Shampoo 900ml | ambiguous barcode | cost file 29.24 live 26.58
+- M00437 | CPR Frizzy Phase 1 Smoothing Creme 250ml | ambiguous barcode | cost file 18.45 live 16.77
+- M00438 | CPR Frizzy Phase 1 Smoothing Creme 500ml | ambiguous barcode | cost file 36.86 live 33.51
+- M00455 | CPR Rescue Scalp Balance Sulphate Free Shampoo 900ml | ambiguous barcode | cost file 35.40 live 32.18
+- M00464 | Manic Panic Amplified Rockabilly Blue Hair Color Spray 125ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00481 | Manic Panic Fuschia Shock 118ml High Voltage Classic Cream Formula Hair Color | fields differ | sell file 32.95 live 29.95; cost file 17.71 live 16.10
+- M00482 | Manic Panic Fuschia Shock 118ml High Voltage Classic Cream Formula Hair Color | fields differ | cost file 15.64 live 16.10
+- M00506 | Manic Panic Siren's Song 118ml Amplified Squeeze Bottle Formula Hair Color | not matched | not on this site
+- M00683 | Redken All Soft Argan Oil 111ml | not matched | title not on catalogue
+- M00685 | Redken All Soft Argan Oil Conditioner 300ml | ambiguous barcode | sell file 44.95 live 42.95; compare-at file 49.95 live 44.95; cost file 23.52 live 21.38
+- M00687 | Redken All Soft Argan Oil Shampoo 300ml | ambiguous barcode | sell file 44.95 live 42.95; compare-at file 49.95 live 44.95; cost file 19.05 live 17.32
+- M00696 | Redken Brushable Hairspray 290g | not matched | not on this site
+- M00743 | Redken Max Hold Hairspray 270g | not matched | not on this site
+- M00793 | L'Oreal Dia Light Semi Permanent Hair Colour 50ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00794 | L'Oreal Flex Blowdry Pre-styling Blowdry Cream 150ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00798 | L'Oreal INOA Permanent Ammonia Free Hair Colour 60g | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00800 | L'Oreal Liss Unlimited Professional Shampoo 300ml | ambiguous barcode | sell file 39.95 live 46.95; compare-at file 49.95 live blank
+- M00821 | L'Oreal Metal Detox Anti-Deposit Protector Conditioner 500ml | not matched | title not on catalogue
+- M00840 | L'Oreal Professionnel Blondifier Gloss Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio | not matched | title not on catalogue
+- M00844 | L'Oreal Professionnel Pro Longer Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00848 | L'Oreal Professionnel Serie Expert Absolut Repair Shampoo 300ml, Conditioner 200ml & Resurfacing Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00849 | L'Oreal Professionnel Serie Expert Absolut Repair Shampoo 300ml, Conditioner 200ml, Repair Oil 90ml & Resurfacing Mask 250ml Quad Pack | not matched | title not on catalogue
+- M00852 | L'Oreal Professionnel Serie Expert Vitamino Color Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00859 | L'Oreal Silver Professional Shampoo 300ml | ambiguous barcode | sell file 49.95 live 46.95; compare-at file 59.95 live blank; cost file 21.89 live 19.90
+- M00892 | Angel En Provence Green Tea Anti-Dandruff Conditioner 800ml | title not on catalogue | sell file 39.95 live 41.95; cost file 19.84 live 18.04
+- M00893 | Angel En Provence Green Tea Anti-Dandruff Shampoo 800ml | title not on catalogue | sell file 39.95 live 41.95; cost file 19.84 live 18.04
+- M00896 | Angel En Provence Helichrysum Revitalising Conditioner 800ml | title not on catalogue | sell file 39.95 live 41.95; cost file 19.84 live 18.04
+- M00897 | Angel En Provence Helichrysum Revitalising Shampoo 800ml | title not on catalogue | sell file 39.95 live 42.95; cost file 19.84 live 18.04
+- M00934 | Angel En Provence Orange Flower Coloured Hair Gift Pack | title not on catalogue | sell file 39.95 live 47.95; cost file 21.30 live 19.36
+- M00944 | Angel En Provence Rosemary Activating Regrowth Essence 50ml | not matched | not on this site
+- M01110 | Olaplex Blonde Bonding Take Home Kit (No.3 100ml, No 4P 250ml, No 6 100ml) | fields differ |  | live title Olaplex Blonde Bonding Take Home Kit
+- M01119 | Olaplex No.0 Intensive Bond Building Treatment 155ml | ambiguous barcode | cost file 44.22 live 40.20
+- M01122 | Olaplex No.3 100ml + No.6 100ml + No.8 100ml Bundle | not matched | title not on catalogue
+- M01124 | Olaplex No.3 Hair Pefector 100ml and No.6 Bond Smoother 100ml Bundle | not matched | title not on catalogue
+- M01126 | Olaplex No.3 Hair Perfector 100ml and No.8 Bond Intense Moisture Mask 100ml Bundle | not matched | title not on catalogue
+- M01125 | Olaplex No.3 Hair Perfector Treatment 100ml | ambiguous barcode | cost file 44.22 live 40.20
+- M01140 | Olaplex No.8 Routine Bundle (No.0 Intensive Bond Building Hair Treatment 155ml, No.3 Hair Perfector 100ml, No.4 Bond Maintenance Shampoo 250ml, and No.8 Bond Intense Moisture Mask 100ml) | not matched | title not on catalogue
+- M01142 | Olaplex Professional Salon Kit 525ml  #1 | fields differ |  | live title Olaplex Professional Salon Kit #1
+- M01143 | Olaplex Traveling Stylist Kit 100ml | fields differ |  | live title Olaplex Traveling Stylist Kit
+- M01204 | American Crew Fiber (Fiber 85g, Cleansing Shampoo 250ml) Duo | fields differ |  | live title American Crew Fiber Duo
+- M01207 | American Crew Forming Cream Duo Gift Set | not matched | not on this site
+- M01215 | American Crew Moisturizing Shave Cream 150ml | not matched | not on this site
+- M01226 | American Crew Shaving Skincare Precision Shave Gel 150ml | not matched | not on this site
+- M01300 | Hi Lift Professional Twin Wax Pot Heater 2 x 1 Litre | not matched | not on this site
+- M01310 | Hi Lift Tint Bowl | empty variant on multi-variant product | compare-at file 7.95 live blank; cost file 3.07 live 2.79
+- M01311 | Hi Lift Tint Bowl | not on this site | compare-at file 7.95 live blank; cost file 3.07 live 2.79
+- M01312 | Hi Lift Tint Bowl | not on this site | compare-at file 7.95 live blank; cost file 3.07 live 2.79
+- M01313 | Hi Lift Tint Bowl | not on this site | compare-at file 7.95 live blank; cost file 3.07 live 2.79
+- M01336 | Hi Lift Wax Pro 1000 Professional Wax Heater | not matched | not on this site
+- M01337 | Hi Lift Wax Pro 200 Professional Wax Heater | not matched | not on this site
+- M01338 | Hi Lift Wax Pro 500 Professional Wax Heater | not matched | not on this site
+
+## hairnbeautyhub
+
+- Price-file rows: 1264
+- Match the file: 1184
+- Differ from the file: 50
+- Not matched to one product: 26
+- Sheet cell is not a price: 4
+- Variant not returned: 0
+
+### Differences
+
+- M00015 | De Lorenzo Bond Defence Thermal Shampoo 240ml | ambiguous barcode | cost file 18.83 live 12.50
+- M00037 | De Lorenzo Essential Treatments Equilibrium Masque 1L | ambiguous barcode | sell file 69.95 live 70.95; cost file 43.32 live 42.29
+- M00020 | De Lorenzo ET Absolute Deep Cleanser 1 Litre | ambiguous barcode | sell file 57.50 live 64.95; cost file 36.58 live 34.98
+- M00046 | De Lorenzo Instant Accentu8 Satur8 125ml | ambiguous barcode | cost file 14.42 live 14.38
+- M00050 | De Lorenzo Instant Allevi8 960ml Duo (with pumps) | fields differ | sell file 104.95 live 109.95
+- M00053 | De Lorenzo Instant Allevi8 Conditioner 960ml (With Pump) | ambiguous barcode | cost file 34.06 live 32.89
+- M00054 | De Lorenzo Instant Allevi8 Conditioner 960ml (with pump) | ambiguous barcode | sell file 54.95 live 55.95; cost file 34.06 live 32.89
+- M00055 | De Lorenzo Instant Allevi8 Shampoo 375ml | ambiguous barcode | cost file 17.00 live 17.08
+- M00058 | De Lorenzo Instant Illumin8 960ml Duo (with pumps) | fields differ | sell file 104.95 live 109.95
+- M00061 | De Lorenzo Instant Illumin8 Blonde Shampoo 960ml (with pump) | ambiguous barcode | sell file 54.95 live 56.95; cost file 34.06 live 33.97
+- M00065 | De Lorenzo Instant Rejuven8 Conditioner 960ml (with pump) | ambiguous barcode | sell file 54.95 live 55.95; cost file 34.06 live 34.08
+- M00076 | De Lorenzo Novafusion CONDITIONER - 500ML | ambiguous barcode | cost file 33.52 live 30.47
+- M00089 | De Lorenzo Prescriptive Solutions Control Revive Conditioner 960ml (with pump) | ambiguous barcode | sell file 74.95 live 79.95; cost file 42.31 live 39.56
+- M00094 | De Lorenzo Prescriptive Solutions Moisture Balance Intense Conditioner 960ml (with pump) | ambiguous barcode | sell file 74.95 live 79.95; cost file 42.31 live 39.56
+- M00096 | De Lorenzo Prescriptive Solutions Moisture Balance Revive Conditioner 960ml (with pump) | ambiguous barcode | sell file 74.95 live 79.95; cost file 42.31 live 39.56
+- M00098 | De Lorenzo Prescriptive Solutions Moisture Balance Shampoo 960ml (with pump) | ambiguous barcode | sell file 74.95 live 79.95; cost file 42.31 live 39.56
+- M00136 | NAK Care Blonde Conditioner 1 Litre | fields differ | sell file 29.95 live 64.95; compare-at file 39.95 live 79.95; cost file 21.95 live 47.97 | live title NAK Signature Blonde Conditioner 1L
+- M00137 | NAK Care Blonde Conditioner 1L | fields differ | sell file 29.95 live 64.95; compare-at file 39.95 live 79.95; cost file 21.95 live 47.97 | live title NAK Signature Blonde Conditioner 1L
+- M00139 | NAK Care Blonde Shampoo 1L | not matched | title not on catalogue
+- M00142 | NAK Care Colour Conditioner 1L | fields differ |  | live title NAK Care Colour Conditioner 1 Litre
+- M00144 | NAK Care Colour Shampoo 1L | fields differ |  | live title NAK Care Colour Shampoo 1 Litre
+- M00168 | NAK Holiday Structure Complex 375ml Trio Pack | not matched | title not on catalogue
+- M00179 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00180 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00181 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00182 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00183 | NAK Permanent Activator Peroxide 1L | fields differ |  | live title NAK Hair Permanent Activator Peroxide 1L
+- M00184 | NAK Platinum Blonde Anti-Yellow 60 Second Repair Treatment 1L | fields differ |  | live title NAK Signature Platinum Blonde Anti-Yellow Treatment 60 Second Repair 1L
+- M00185 | NAK Platinum Blonde Anti-Yellow Shampoo 1L | not matched | title not on catalogue
+- M00258 | NAK Signature Curl Conditioner 1L | fields differ |  | live title NAK Signature Curl Condition 1L
+- M00259 | NAK Signature Curl Shampoo & Conditioner Duo 1L | not matched | title not on catalogue
+- M00272 | NAK Signature Hydrate Conditioner 1L | fields differ | sell file 59.50 live 117.95; cost file 47.97 live 74.40 | live title NAK Signature Hydrate Shampoo & Conditioner 1L Duo
+- M00277 | NAK Signature Hydrate Shampoo & Conditioner Duo 1L | fields differ | sell file 114.95 live 117.95; compare-at file 139.90 live 69.95; cost file 81.84 live 74.40 | live title NAK Signature Hydrate Shampoo & Conditioner 1L Duo
+- M00282 | NAK Signature K.Revive Express Repair Power Mask 150ml | fields differ |  | live title NAK Signature K.Revive Peptide Leave in  Power Mask 150ml
+- M00289 | NAK Signature Nourish Shampoo & Conditioner 1L Duo | ambiguous barcode | sell file 119.95 live 117.95; cost file 82.04 live 74.58
+- M00291 | NAK Signature Nourish Shampoo & Conditioner Duo 1L | not matched | ambiguous barcode
+- M00307 | NAK Signature Structure Complex Protein Shampoo & Conditioner Duo 1L | not matched | ambiguous barcode
+- M00313 | NAK Signature Structure Complex Shampoo and Conditioner 1L Duo | ambiguous barcode | sell file 119.95 live 129.95; cost file 89.76 live 81.60
+- M00323 | NAK Signature Volume Shampoo & Conditioner Duo 1L | not matched | title not on catalogue
+- M00362 | MUVO Totally Naked Shampoo & Conditioner Duo 500ml | not matched | title not on catalogue
+- M00368 | MUVO Ultra Blonde Shampoo & Conditioner Duo 500ml | not matched | title not on catalogue
+- M00376 | MUVO Wild Berry Shampoo 500ml | fields differ |  | live title MUVO Wild Berry Shampoo - 500ml
+- M00390 | CPR Blonde Always Blonde Sulphate Free Shampoo and Blonde Toning Conditioner 900ml Duo Pack | fields differ | sell file 117.95 live 52.95; compare-at file 139.90 live 64.95; cost file 66.19 live blank | live title Vitafive CPR Blonde Solution Trio Pack
+- M00434 | CPR Frizzy Fizz Control Sulphate free Shampoo 900ml | ambiguous barcode | sell file 59.95 live 54.95; cost file 29.24 live 26.58
+- M00437 | CPR Frizzy Phase 1 Smoothing Creme 250ml | ambiguous barcode | sell file 28.95 live 35.95; cost file 18.45 live 16.77
+- M00438 | CPR Frizzy Phase 1 Smoothing Creme 500ml | ambiguous barcode | sell file 54.95 live 59.95; cost file 36.86 live 33.51
+- M00455 | CPR Rescue Scalp Balance Sulphate Free Shampoo 900ml | ambiguous barcode | sell file 59.95 live 54.95; cost file 35.40 live 32.18
+- M00464 | Manic Panic Amplified Rockabilly Blue Hair Color Spray 125ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00481 | Manic Panic Fuschia Shock 118ml High Voltage Classic Cream Formula Hair Color | fields differ | sell file 26.95 live 32.95; cost file 17.71 live 16.10
+- M00482 | Manic Panic Fuschia Shock 118ml High Voltage Classic Cream Formula Hair Color | fields differ | sell file 29.95 live 32.95; cost file 15.64 live 16.10
+- M00683 | Redken All Soft Argan Oil 111ml | not matched | title not on catalogue
+- M00685 | Redken All Soft Argan Oil Conditioner 300ml | ambiguous barcode | compare-at file 49.95 live 44.95; cost file 23.52 live 17.32
+- M00687 | Redken All Soft Argan Oil Shampoo 300ml | ambiguous barcode | compare-at file 49.95 live 44.95; cost file 19.05 live 17.32
+- M00793 | L'Oreal Dia Light Semi Permanent Hair Colour 50ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00794 | L'Oreal Flex Blowdry Pre-styling Blowdry Cream 150ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00798 | L'Oreal INOA Permanent Ammonia Free Hair Colour 60g | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00800 | L'Oreal Liss Unlimited Professional Shampoo 300ml | ambiguous barcode | sell file 34.95 live 46.95; compare-at file 49.95 live blank
+- M00821 | L'Oreal Metal Detox Anti-Deposit Protector Conditioner 500ml | not matched | title not on catalogue
+- M00840 | L'Oreal Professionnel Blondifier Gloss Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio | not matched | title not on catalogue
+- M00844 | L'Oreal Professionnel Pro Longer Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00848 | L'Oreal Professionnel Serie Expert Absolut Repair Shampoo 300ml, Conditioner 200ml & Resurfacing Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00849 | L'Oreal Professionnel Serie Expert Absolut Repair Shampoo 300ml, Conditioner 200ml, Repair Oil 90ml & Resurfacing Mask 250ml Quad Pack | not matched | title not on catalogue
+- M00852 | L'Oreal Professionnel Serie Expert Vitamino Color Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00859 | L'Oreal Silver Professional Shampoo 300ml | ambiguous barcode | sell file 54.95 live 46.95; compare-at file 59.95 live blank; cost file 21.89 live 19.90
+- M00892 | Angel En Provence Green Tea Anti-Dandruff Conditioner 800ml | not matched | title not on catalogue
+- M00893 | Angel En Provence Green Tea Anti-Dandruff Shampoo 800ml | not matched | title not on catalogue
+- M00896 | Angel En Provence Helichrysum Revitalising Conditioner 800ml | not matched | title not on catalogue
+- M00897 | Angel En Provence Helichrysum Revitalising Shampoo 800ml | not matched | title not on catalogue
+- M00934 | Angel En Provence Orange Flower Coloured Hair Gift Pack | not matched | title not on catalogue
+- M01110 | Olaplex Blonde Bonding Take Home Kit (No.3 100ml, No 4P 250ml, No 6 100ml) | fields differ |  | live title Olaplex Blonde Bonding Take Home Kit
+- M01119 | Olaplex No.0 Intensive Bond Building Treatment 155ml | ambiguous barcode | cost file 44.22 live 40.20
+- M01122 | Olaplex No.3 100ml + No.6 100ml + No.8 100ml Bundle | not matched | title not on catalogue
+- M01124 | Olaplex No.3 Hair Pefector 100ml and No.6 Bond Smoother 100ml Bundle | not matched | title not on catalogue
+- M01126 | Olaplex No.3 Hair Perfector 100ml and No.8 Bond Intense Moisture Mask 100ml Bundle | not matched | title not on catalogue
+- M01125 | Olaplex No.3 Hair Perfector Treatment 100ml | ambiguous barcode | cost file 44.22 live 40.20
+- M01140 | Olaplex No.8 Routine Bundle (No.0 Intensive Bond Building Hair Treatment 155ml, No.3 Hair Perfector 100ml, No.4 Bond Maintenance Shampoo 250ml, and No.8 Bond Intense Moisture Mask 100ml) | not matched | title not on catalogue
+- M01142 | Olaplex Professional Salon Kit 525ml  #1 | fields differ |  | live title Olaplex Professional Salon Kit #1
+- M01143 | Olaplex Traveling Stylist Kit 100ml | fields differ |  | live title Olaplex Traveling Stylist Kit
+- M01204 | American Crew Fiber (Fiber 85g, Cleansing Shampoo 250ml) Duo | fields differ |  | live title American Crew Fiber Duo
+- M01310 | Hi Lift Tint Bowl | not matched | empty variant on multi-variant product
+
+## hairproducts
+
+- Price-file rows: 1264
+- Match the file: 1133
+- Differ from the file: 58
+- Not matched to one product: 69
+- Sheet cell is not a price: 4
+- Variant not returned: 0
+
+### Differences
+
+- M00002 | De Lorenzo Accentu8 Shampoo 750ml | not matched | not on this site
+- M00015 | De Lorenzo Bond Defence Thermal Shampoo 240ml | ambiguous barcode | cost file 18.83 live 12.50
+- M00037 | De Lorenzo Essential Treatments Equilibrium Masque 1L | ambiguous barcode | cost file 43.32 live 42.29
+- M00020 | De Lorenzo ET Absolute Deep Cleanser 1 Litre | ambiguous barcode | cost file 36.58 live 36.89
+- M00046 | De Lorenzo Instant Accentu8 Satur8 125ml | ambiguous barcode | cost file 14.42 live 14.55
+- M00050 | De Lorenzo Instant Allevi8 960ml Duo (with pumps) | fields differ | sell file 101.50 live 104.95
+- M00053 | De Lorenzo Instant Allevi8 Conditioner 960ml (With Pump) | ambiguous barcode | sell file 52.95 live 51.50; cost file 34.06 live 32.89
+- M00054 | De Lorenzo Instant Allevi8 Conditioner 960ml (with pump) | ambiguous barcode | sell file 52.95 live 51.50; cost file 34.06 live 32.89
+- M00055 | De Lorenzo Instant Allevi8 Shampoo 375ml | ambiguous barcode | cost file 17.00 live 17.08
+- M00058 | De Lorenzo Instant Illumin8 960ml Duo (with pumps) | fields differ | sell file 101.50 live 104.95
+- M00061 | De Lorenzo Instant Illumin8 Blonde Shampoo 960ml (with pump) | ambiguous barcode | sell file 52.95 live 51.50; cost file 34.06 live 33.97
+- M00065 | De Lorenzo Instant Rejuven8 Conditioner 960ml (with pump) | ambiguous barcode | sell file 52.95 live 51.50; cost file 34.06 live 32.89
+- M00076 | De Lorenzo Novafusion CONDITIONER - 500ML | ambiguous barcode | cost file 33.52 live 30.47
+- M00089 | De Lorenzo Prescriptive Solutions Control Revive Conditioner 960ml (with pump) | ambiguous barcode | cost file 42.31 live 39.56
+- M00094 | De Lorenzo Prescriptive Solutions Moisture Balance Intense Conditioner 960ml (with pump) | ambiguous barcode | cost file 42.31 live 39.56
+- M00096 | De Lorenzo Prescriptive Solutions Moisture Balance Revive Conditioner 960ml (with pump) | ambiguous barcode | cost file 42.31 live 39.56
+- M00098 | De Lorenzo Prescriptive Solutions Moisture Balance Shampoo 960ml (with pump) | ambiguous barcode | cost file 42.31 live 39.56
+- M00101 | De Lorenzo Rejuven8 Conditioner 750ml | not matched | not on this site
+- M00136 | NAK Care Blonde Conditioner 1 Litre | fields differ | sell file 28.95 live 59.95; compare-at file 39.95 live 79.95; cost file 21.95 live 47.97 | live title NAK Signature Blonde Conditioner 1L
+- M00137 | NAK Care Blonde Conditioner 1L | fields differ | sell file 34.95 live 59.95; compare-at file 39.95 live 79.95; cost file 21.95 live 47.97 | live title NAK Signature Blonde Conditioner 1L
+- M00139 | NAK Care Blonde Shampoo 1L | title not on catalogue | compare-at file 39.95 live 36.95; cost file 21.95 live 19.95
+- M00152 | NAK Dandruff Control Shampoo 375ml | not matched | not on this site
+- M00154 | NAK Dry Texture Spray  150ml | fields differ |  | live title NAK Signature Dry Texture Spray 150ml
+- M00155 | NAK Hair Creme Plus Permanent Conditioning Activator | not matched | not on this site
+- M00156 | NAK Hair Creme Plus Permanent Conditioning Activator | not matched | not on this site
+- M00168 | NAK Holiday Structure Complex 375ml Trio Pack | title not on catalogue | sell file 54.95 live 58.95; cost file 35.79 live 32.54
+- M00184 | NAK Platinum Blonde Anti-Yellow 60 Second Repair Treatment 1L | not matched | not on this site
+- M00185 | NAK Platinum Blonde Anti-Yellow Shampoo 1L | not matched | title not on catalogue
+- M00190 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00206 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00218 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00221 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00223 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00224 | NAK Professional Permanent Hair Colour 100ml | not matched | not on this site
+- M00242 | NAK Rose Blonde Shampoo 1L | fields differ | sell file 59.95 live 54.95
+- M00253 | NAK Signature Blonde Plus Shampoo 1L | fields differ | sell file 64.95 live 59.95
+- M00259 | NAK Signature Curl Shampoo & Conditioner Duo 1L | title not on catalogue | cost file 87.34 live 79.40
+- M00261 | NAK Signature Curl Shampoo and Condition 1L Duo | not matched | not on this site
+- M00272 | NAK Signature Hydrate Conditioner 1L | fields differ | cost file 47.97 live 78.32 | live title NAK Signature Hydrate Shampoo & Conditioner Duo 1L
+- M00277 | NAK Signature Hydrate Shampoo & Conditioner Duo 1L | fields differ | sell file 109.95 live 59.95; compare-at file 139.90 live 69.95; cost file 81.84 live 78.32
+- M00281 | NAK Signature Hydrate Shampoo and Conditioner DUO 350ml | not matched | not on this site
+- M00289 | NAK Signature Nourish Shampoo & Conditioner 1L Duo | not matched | ambiguous barcode
+- M00291 | NAK Signature Nourish Shampoo & Conditioner Duo 1L | ambiguous barcode | cost file 82.04 live 74.58
+- M00296 | NAK Signature Platinum Blonde Anti-Yellow Treatment 60 Second Repair 1L | not matched | not on this site
+- M00298 | NAK Signature Replends Crème Leave in Moisturiser 50ml | not matched | not on this site
+- M00299 | NAK Signature Replends Moisture Mask 150ml | not matched | not on this site
+- M00302 | NAK Signature Structure Complex Holiday Quad Pack | not matched | not on this site
+- M00307 | NAK Signature Structure Complex Protein Shampoo & Conditioner Duo 1L | ambiguous barcode | cost file 89.76 live 87.96
+- M00312 | NAK Signature Structure Complex Protein Shampoo and Conditioner DUO 350ml | not matched | not on this site
+- M00313 | NAK Signature Structure Complex Shampoo and Conditioner 1L Duo | not matched | ambiguous barcode
+- M00323 | NAK Signature Volume Shampoo & Conditioner Duo 1L | title not on catalogue | cost file 87.34 live 75.30
+- M00324 | NAK Signature Volume Shampoo 1L | fields differ | sell file 59.95 live 64.95
+- M00329 | NAK Signature Volume Shampoo and Conditioner 1L Duo | not matched | not on this site
+- M00331 | NAK Signature Volume Shampoo and Conditioner DUO 350ml | not matched | not on this site
+- M00333 | NAK Structure Complex No.3 Bond Enhancer 150ml | ambiguous barcode | cost file 21.30 live 17.87
+- M00337 | NAK Structure Complex Protein Shampoo 500ml | not matched | not on this site
+- M00339 | NAK Ultimate Cleanse Vegan Shampoo 375ml | not matched | not on this site
+- M00362 | MUVO Totally Naked Shampoo & Conditioner Duo 500ml | title not on catalogue | cost file 40.29 live 34.63
+- M00378 | Muvo Totally Naked Shampoo and Conditioner 500ml Duo | not matched | not on this site
+- M00368 | MUVO Ultra Blonde Shampoo & Conditioner Duo 500ml | title not on catalogue | cost file 39.15 live 35.59
+- M00372 | MUVO Ultra Blonde Therapy Mask 200ml | not matched | not on this site
+- M00434 | CPR Frizzy Fizz Control Sulphate free Shampoo 900ml | ambiguous barcode | cost file 29.24 live 26.58
+- M00437 | CPR Frizzy Phase 1 Smoothing Creme 250ml | ambiguous barcode | sell file 34.95 live 31.50; cost file 18.45 live 16.78
+- M00438 | CPR Frizzy Phase 1 Smoothing Creme 500ml | ambiguous barcode | sell file 44.95 live 58.50; cost file 36.86 live 33.51
+- M00455 | CPR Rescue Scalp Balance Sulphate Free Shampoo 900ml | ambiguous barcode | sell file 49.95 live 55.50; cost file 35.40 live 32.18
+- M00464 | Manic Panic Amplified Rockabilly Blue Hair Color Spray 125ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00481 | Manic Panic Fuschia Shock 118ml High Voltage Classic Cream Formula Hair Color | fields differ | sell file 29.95 live 28.95; cost file 17.71 live 17.57
+- M00482 | Manic Panic Fuschia Shock 118ml High Voltage Classic Cream Formula Hair Color | fields differ | cost file 15.64 live 17.57
+- M00506 | Manic Panic Siren's Song 118ml Amplified Squeeze Bottle Formula Hair Color | not matched | not on this site
+- M00683 | Redken All Soft Argan Oil 111ml | title not on catalogue | sell file 47.95 live 48.95; compare-at file 59.95 live blank; cost file 33.11 live 30.10
+- M00685 | Redken All Soft Argan Oil Conditioner 300ml | ambiguous barcode | sell file 39.95 live 41.95; compare-at file 49.95 live 44.95; cost file 23.52 live 21.38
+- M00687 | Redken All Soft Argan Oil Shampoo 300ml | ambiguous barcode | sell file 39.95 live 41.95; compare-at file 49.95 live 44.95; cost file 19.05 live 17.32
+- M00696 | Redken Brushable Hairspray 290g | not matched | not on this site
+- M00743 | Redken Max Hold Hairspray 270g | not matched | not on this site
+- M00793 | L'Oreal Dia Light Semi Permanent Hair Colour 50ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00794 | L'Oreal Flex Blowdry Pre-styling Blowdry Cream 150ml | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00798 | L'Oreal INOA Permanent Ammonia Free Hair Colour 60g | sheet cell is not a price | hq sell price Archive Product; hairandbeautyhub sell price Archive Product; hairnbeautyhub sell price Archive Product; hairproducts sell price Archive Product
+- M00800 | L'Oreal Liss Unlimited Professional Shampoo 300ml | ambiguous barcode | sell file 32.95 live 46.95; compare-at file 49.95 live blank
+- M00821 | L'Oreal Metal Detox Anti-Deposit Protector Conditioner 500ml | not matched | title not on catalogue
+- M00840 | L'Oreal Professionnel Blondifier Gloss Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio | not matched | title not on catalogue
+- M00844 | L'Oreal Professionnel Pro Longer Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00848 | L'Oreal Professionnel Serie Expert Absolut Repair Shampoo 300ml, Conditioner 200ml & Resurfacing Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00849 | L'Oreal Professionnel Serie Expert Absolut Repair Shampoo 300ml, Conditioner 200ml, Repair Oil 90ml & Resurfacing Mask 250ml Quad Pack | not matched | title not on catalogue
+- M00852 | L'Oreal Professionnel Serie Expert Vitamino Color Shampoo 300ml, Conditioner 200ml & Mask 250ml Trio Pack | not matched | title not on catalogue
+- M00859 | L'Oreal Silver Professional Shampoo 300ml | ambiguous barcode | sell file 45.95 live 46.95; compare-at file 59.95 live blank; cost file 21.89 live 19.90
+- M00892 | Angel En Provence Green Tea Anti-Dandruff Conditioner 800ml | title not on catalogue | sell file 34.95 live 40.95; cost file 19.84 live 18.04
+- M00893 | Angel En Provence Green Tea Anti-Dandruff Shampoo 800ml | title not on catalogue | sell file 34.95 live 40.95; cost file 19.84 live 18.04
+- M00896 | Angel En Provence Helichrysum Revitalising Conditioner 800ml | title not on catalogue | sell file 34.95 live 40.95; cost file 19.84 live 18.04
+- M00897 | Angel En Provence Helichrysum Revitalising Shampoo 800ml | title not on catalogue | sell file 34.95 live 41.95; compare-at file 57.00 live 56.00; cost file 19.84 live 18.04
+- M00934 | Angel En Provence Orange Flower Coloured Hair Gift Pack | not matched | title not on catalogue
+- M00944 | Angel En Provence Rosemary Activating Regrowth Essence 50ml | not matched | not on this site
+- M01110 | Olaplex Blonde Bonding Take Home Kit (No.3 100ml, No 4P 250ml, No 6 100ml) | fields differ |  | live title Olaplex Blonde Bonding Take Home Kit
+- M01119 | Olaplex No.0 Intensive Bond Building Treatment 155ml | ambiguous barcode | cost file 44.22 live 31.68
+- M01122 | Olaplex No.3 100ml + No.6 100ml + No.8 100ml Bundle | not matched | title not on catalogue
+- M01124 | Olaplex No.3 Hair Pefector 100ml and No.6 Bond Smoother 100ml Bundle | not matched | title not on catalogue
+- M01126 | Olaplex No.3 Hair Perfector 100ml and No.8 Bond Intense Moisture Mask 100ml Bundle | not matched | title not on catalogue
+- M01125 | Olaplex No.3 Hair Perfector Treatment 100ml | ambiguous barcode | sell file 54.95 live 57.95; cost file 44.22 live 40.20
+- M01140 | Olaplex No.8 Routine Bundle (No.0 Intensive Bond Building Hair Treatment 155ml, No.3 Hair Perfector 100ml, No.4 Bond Maintenance Shampoo 250ml, and No.8 Bond Intense Moisture Mask 100ml) | not matched | title not on catalogue
+- M01142 | Olaplex Professional Salon Kit 525ml  #1 | fields differ |  | live title Olaplex Professional Salon Kit #1
+- M01143 | Olaplex Traveling Stylist Kit 100ml | fields differ |  | live title Olaplex Traveling Stylist Kit
+- M01149 | K18 Leave-In Molecular Repair Hair Mask 150ml | not matched | ambiguous barcode
+- M01177 | American Crew 3-IN-1 Energizing Ginger + Tea 450ml | not matched | not on this site
+- M01178 | American Crew 3-IN-1 Relaxing Chamomile + Pine 450ml | not matched | not on this site
+- M01179 | American Crew 3-In-1 Tea Tree 450ml | not matched | not on this site
+- M01180 | American Crew All-In-One Face Balm SPF 15 150ml | not matched | not on this site
+- M01185 | American Crew Classic 3-In-1  450ml | not matched | not on this site
+- M01204 | American Crew Fiber (Fiber 85g, Cleansing Shampoo 250ml) Duo | fields differ |  | live title American Crew Fiber Duo
+- M01207 | American Crew Forming Cream Duo Gift Set | not matched | not on this site
+- M01215 | American Crew Moisturizing Shave Cream 150ml | not matched | not on this site
+- M01226 | American Crew Shaving Skincare Precision Shave Gel 150ml | not matched | not on this site
+- M01260 | Hi Lift Applicator Bottle 150ml | not matched | not on this site
+- M01261 | Hi Lift Bleach Blue Refill Bag 500g | not matched | not on this site
+- M01262 | Hi Lift Bleach White Refill Bag 500g | not matched | not on this site
+- M01267 | Hi Lift Ceramic Brush 33mm | not matched | not on this site
+- M01283 | Hi Lift Foil 18 Micron Silver 100m | not matched | not on this site
+- M01295 | Hi Lift Pro Ceramic Brush 25mm | not matched | not on this site
+- M01296 | Hi Lift Pro Ceramic Brush 43mm | not matched | not on this site
+- M01297 | Hi Lift Pro Ceramic Brush 53mm | not matched | not on this site
+- M01300 | Hi Lift Professional Twin Wax Pot Heater 2 x 1 Litre | not matched | not on this site
+- M01304 | Hi Lift Round Porcupine Ceramic Brush 14 Rows HLB7006 | not matched | not on this site
+- M01307 | Hi Lift Super Grip Ionic Hot Tube Brush 25mm HLB5002 | not matched | not on this site
+- M01308 | Hi Lift Teasing Brush 3 Rows | not matched | not on this site
+- M01310 | Hi Lift Tint Bowl | empty variant on multi-variant product | compare-at file 7.95 live blank; cost file 3.07 live 2.90
+- M01311 | Hi Lift Tint Bowl | not on this site | compare-at file 7.95 live blank; cost file 3.07 live 2.90
+- M01312 | Hi Lift Tint Bowl | not on this site | compare-at file 7.95 live blank; cost file 3.07 live 2.90
+- M01313 | Hi Lift Tint Bowl | not on this site | compare-at file 7.95 live blank; cost file 3.07 live 2.90
+- M01330 | Hi Lift Universal Dryer Diffuser - Fits All Dryers Except 3500 | not matched | not on this site
+- M01335 | Hi Lift Violet V-Ultima Low Ammonia Bleach 500g | not matched | not on this site
+- M01336 | Hi Lift Wax Pro 1000 Professional Wax Heater | not matched | not on this site
+- M01337 | Hi Lift Wax Pro 200 Professional Wax Heater | not matched | not on this site
+- M01338 | Hi Lift Wax Pro 500 Professional Wax Heater | not matched | not on this site
+
